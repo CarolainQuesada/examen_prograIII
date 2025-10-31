@@ -32,4 +32,5 @@ public class User {
     public void setCreated_at(String created_at) { this.created_at = created_at; }
     public void setFollowers(int followers) { this.followers = followers; }
     public void setFollowing(int following) { this.following = following; }
+    
 }
